@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/sujithra0821-stack/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sujithra0821-stack/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0088-merge-sorted-array](https://github.com/sujithra0821-stack/LeetCode/tree/master/0088-merge-sorted-array) |
+| [2536-increment-submatrices-by-one](https://github.com/sujithra0821-stack/LeetCode/tree/master/2536-increment-submatrices-by-one) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,4 +52,12 @@
 |  |
 | ------- |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/sujithra0821-stack/LeetCode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
+## Matrix
+|  |
+| ------- |
+| [2536-increment-submatrices-by-one](https://github.com/sujithra0821-stack/LeetCode/tree/master/2536-increment-submatrices-by-one) |
+## Prefix Sum
+|  |
+| ------- |
+| [2536-increment-submatrices-by-one](https://github.com/sujithra0821-stack/LeetCode/tree/master/2536-increment-submatrices-by-one) |
 <!---LeetCode Topics End-->
