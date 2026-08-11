@@ -9,6 +9,7 @@
 | [0088-merge-sorted-array](https://github.com/sujithra0821-stack/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/sujithra0821-stack/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/sujithra0821-stack/LeetCode/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sujithra0821-stack/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/sujithra0821-stack/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/sujithra0821-stack/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2536-increment-submatrices-by-one](https://github.com/sujithra0821-stack/LeetCode/tree/master/2536-increment-submatrices-by-one) |
@@ -21,11 +22,13 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sujithra0821-stack/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0645-set-mismatch](https://github.com/sujithra0821-stack/LeetCode/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sujithra0821-stack/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sujithra0821-stack/LeetCode/tree/master/0001-two-sum) |
 | [0645-set-mismatch](https://github.com/sujithra0821-stack/LeetCode/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sujithra0821-stack/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -74,4 +77,8 @@
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/sujithra0821-stack/LeetCode/tree/master/0645-set-mismatch) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sujithra0821-stack/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
